@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Data Integration and Management for End-users (DIME) is an ocean science data tool developed by Dalhousie School of Information Management, 
   under the supervision of Dr. Mike Smit and in collaboration with Arin MacNeill (UX / UI design), Patrick Crysdale (Research Support) and 
   Alexandru Ianta (Technical Systems). DIME facilitates the preparation of ocean science data for publication with a user first experience.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://dal-dime.github.io/documentation" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  
