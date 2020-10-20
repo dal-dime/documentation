@@ -1,0 +1,10 @@
+The DIME project is under the supervision of Dr. Mike Smit from the School 
+of Information Management at Dalhousie university. 
+
+
+Credit: 
+
+Web/UX Design - Arin MacNeill (arinmac.ca)
+Technical Systems - Alexandru Ianta (@aianta on Github)
+Research Support - Patrick Crysdale 
+
