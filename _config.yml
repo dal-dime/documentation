@@ -22,11 +22,7 @@ title: DIME Docs
 email: aianta@dal.ca
 description: >- # this means to ignore newlines until "baseurl:"
   Data Integration and Management for End-users (DIME) is an ocean science data app that provides a user-first experience 
-  for the data publication process. Datasets are quick to upload, and the standardization and annotation steps required to
-  publish on plaforms such as figshare, are broken into small, easy to do tasks. 
-  
-  DIME tasks cut through the monotony of the traditional publication process, so you can focus on your research, while 
-  growing your contributions to standardized, annotated, high quality data.
+  for the data publication process. 
   
   Developed through Dalhousie University by Arin MacNeill, Patrick Crysdale, and Alexandru Ianta under the supervision of Dr. Mike Smit. 
 baseurl: "/" # the subpath of your site, e.g. /blog
