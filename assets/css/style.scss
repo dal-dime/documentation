@@ -3,6 +3,25 @@
 
 @import "{{ site.theme }}";
 
-.pagelist{
-    list-style: none;
+/* Doc Tip pages should be space efficient as they are iframed 
+ * from the web app. */
+.doctip-wrapper{
+    width: 95%;
+    margin: auto;
+    position: absolute;
+    top:10px;
+
+}
+
+.doctip-wrapper h1{
+    margin-bottom:3px;
+}
+
+.doctip-wrapper p{
+    font-size: 16pt;
+}
+
+.doctip-wrapper footer{
+    position: relative;
+    bottom: 0;
 }

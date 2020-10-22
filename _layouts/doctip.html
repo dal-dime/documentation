@@ -12,24 +12,13 @@
         <![endif]-->
       </head>
       <body>
-        <div class="wrapper">
-          
-    
-            <small>{{ page.date | date: "%-d %B %Y" }}</small>
+        <div class="doctip-wrapper">
             <h1>{{ page.title }}</h1>
-            
-            {% if page.author %}
-            <p class="view">by {{ page.author | default: site.author }}</p>
-            {% endif %}
-            
+    
             {{content}}
             
-            {% if page.tag %}
-              <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
-            {% endif %}
-            
-    
-          
+
+        
           <footer>
             <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
           </footer>
