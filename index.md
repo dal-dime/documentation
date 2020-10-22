@@ -1,3 +1,9 @@
+---
+title: Index
+layout: default
+exclude: true
+---
+
 <ul>
   {% for post in site.posts %}
     <li>
