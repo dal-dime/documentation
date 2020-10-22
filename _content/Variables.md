@@ -1,2 +1,2 @@
 Uploaded documents are parsed to extract their variables. You can match each extracted variable to a standard definition by clicking the drop down chevron to its left and searching standard definitions with the tool that appears.
-![process](/images/standardize.gif)
+![process]({{ "/images/standardize.gif" | site.url + "/images/standardize.gif"}})
