@@ -26,7 +26,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   
   Developed through Dalhousie University by Arin MacNeill, Patrick Crysdale, and Alexandru Ianta under the supervision of Dr. Mike Smit. 
 baseurl: "/" # the subpath of your site, e.g. /blog
-
+url: https://dal-dime.github.io/
 
 # Build settings
 plugins:
