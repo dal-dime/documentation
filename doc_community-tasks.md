@@ -1,6 +1,6 @@
 ---
 title: Community Tasks
-layout: post
+layout: doctip
 author: Alexandru Ianta
 ---
 
