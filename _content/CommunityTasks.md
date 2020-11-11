@@ -1,0 +1,1 @@
+Community tasks help others integrate their data. They specifically refer to tasks generated from datasets others have uploaded. 
