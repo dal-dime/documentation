@@ -53,3 +53,4 @@ plugins:
 #   - vendor/ruby/
 
 theme: jekyll-theme-minimal
+plugins_dir: _plugins
