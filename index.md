@@ -17,6 +17,7 @@ On DIME, datasets are quick to upload, then easy to standardize, annotate, and p
 
 The core principle is to start working with your data, **in its current state**, while breaking down the hurdles to getting it published in popular data repositories. This is achieved by combining our core features into one user friendly experience. 
 
+Work in progress implementations of the core features described below are currently available on the [live webapp](https://dime.oceansdata.ca).  
 
 # Core Features
   * [Easy On-Boarding](#easy-onboarding)
