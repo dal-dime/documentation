@@ -45,6 +45,9 @@ If using Windows, install our upload tool to allow you to *right-click* and *Sen
 
 {% include image.html url='/images/send-to-dime.gif' description='Upsettingly simple upload provided by our tool for windows users' %}
 
+Upload data in **.csv** or **.nc** format!
+
+
 ## Short, Ubiquitous Tasks
 {:#short-tasks}
 Once uploaded, your dataset is parsed to produce tasks that improve the quality of your data. Tasks are designed to be short, completeing one should not take longer than a few minutes. One of the most common tasks on the platform requires you to use our standard definition search to match a single variable from a dataset. 
