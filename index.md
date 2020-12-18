@@ -25,11 +25,9 @@ Once uploaded, your dataset is parsed to produce tasks that improve the quality 
 
 {% include image.html url='/images/desktop-amt-task.gif' description='A common DIME Task, searching for a standard definition to match to a dataset variable ' %}
 
-![desktop amt task]({{site.url}}/images/desktop-amt-task.gif)
-
 In addition, tasks are meant to be ubiquitous. This is achieved by making tasks available on mobile, and presenting you with a continous stream of tasks from the moment you login. No need to navigate anywhere, if there are more tasks to do, the next one be sent to you the moment you complete the current one. 
 
-![mobile amt task]({{site.url}}/images/mobile-amt-task.gif)
+{% include image.html url='/images/mobile-amt-task.gif' description='The same task as above, on mobile. ' %}
 
 DIME tasks cut through the monotony of the traditional publication process, so you can focus on your research, while 
 growing your contributions to standardized, annotated, high quality data. 
