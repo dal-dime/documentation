@@ -25,12 +25,20 @@ Once uploaded, your dataset is parsed to produce tasks that improve the quality 
 
 {% include image.html url='/images/desktop-amt-task.gif' description='A common DIME Task, searching for a standard definition to match to a dataset variable ' %}
 
-In addition, tasks are meant to be ubiquitous. This is achieved by making tasks available on mobile, and presenting you with a continous stream of tasks from the moment you login. No need to navigate anywhere, if there are more tasks to do, the next one be sent to you the moment you complete the current one. 
+In addition, tasks are meant to be ubiquitous. This is achieved by making tasks available on mobile, and presenting you with a continous stream of tasks called a **taskflow**, from the moment you login. No need to navigate anywhere, if there are more tasks to do, the next one be sent to you the moment you complete the current one. 
 
 {% include image.html url='/images/mobile-amt-task.gif' description='The same task as above, on mobile. ' %}
 
 DIME tasks cut through the monotony of the traditional publication process, so you can focus on your research, while 
 growing your contributions to standardized, annotated, high quality data. 
 
+[Read more...]({{site.url}}{% link Tasks.md %})
+
 ## Crowd Enchanced 
+
+Certain tasks on DIME lend themselves to crowd sourcing. Depending on the variable name a third party should be reasonably capable of suggesting an applicable standard definition. DIME distributes matching tasks like these to other community members to speed up your integration process. 
+
+In turn, you too will recieve community tasks to complete in your taskflow. When a community member suggests a match, you will be notified via email, or real-time in-app notifications, depending on your preferences.
+
+Incidently, viewing existing community matches and potentially selecting one of them is another kind of task that can appear in your taskflow.
 
