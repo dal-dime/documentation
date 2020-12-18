@@ -23,7 +23,7 @@ The core principle is to start working with your data, **in its current state**,
 
 Once uploaded, your dataset is parsed to produce tasks that improve the quality of your data. Tasks are designed to be short, completeing one should not take longer than a few minutes. One of the most common tasks on the platform requires you to use our standard definition search to match a single variable from a dataset. 
 
-{% include image.html url="{{site.url}}/images/desktop-amt-task.gif" description="A common DIME Task, searching for a standard definition to match to a dataset variable " %}
+{% include image.html url='/images/desktop-amt-task.gif' description='A common DIME Task, searching for a standard definition to match to a dataset variable ' %}
 
 ![desktop amt task]({{site.url}}/images/desktop-amt-task.gif)
 
