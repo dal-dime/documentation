@@ -27,7 +27,7 @@ Once uploaded, your dataset is parsed to produce tasks that improve the quality 
 
 In addition, tasks are meant to be ubiquitous. This is achieved by making tasks available on mobile, and presenting you with a continous stream of tasks called a **taskflow**, from the moment you login. No need to navigate anywhere, if there are more tasks to do, the next one be sent to you the moment you complete the current one. 
 
-{% include image.html url='/images/mobile-amt-task.gif' description='The same task as above, on mobile. ' %}
+{% include image.html url='/images/mobile-amt-task.gif' description='The DIME taskflow on mobile, demonstrating the same task as before.' %}
 
 DIME tasks cut through the monotony of the traditional publication process, so you can focus on your research, while 
 growing your contributions to standardized, annotated, high quality data. 
