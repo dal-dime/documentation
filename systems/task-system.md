@@ -65,7 +65,7 @@ When the front-end asks for a user's next task, only tasks which are currently i
 
 ## Taskflows
 
-While the other abstractions have some manifestation in the source code of DIME's task system, taskflows do not. The closest representation of a taskflow in the task system is the task histroy. Taskflows are moreso a concept which arises from the implementation of the other abstractions. A taskflow is a path along a graph where states are the verticies and transitions and side effects are the edges. Designing a task on the DIME platform means creating a taskflow that takes users through the steps of a data integration task. 
+While the other abstractions have some manifestation in the source code of DIME's task system, taskflows do not. The closest representation of a taskflow in the task system is the task history. Taskflows are moreso a concept which arises from the implementation of the other abstractions. A taskflow is a path along a graph where states are the verticies and transitions and side effects are the edges. Designing a task on the DIME platform means creating a taskflow that takes users through the steps of a data integration task. 
 
 A taskflow is illustrated below through the highlighted blue transitions:
 
