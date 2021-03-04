@@ -23,3 +23,34 @@
     position: relative;
     bottom: 0;
 }
+
+// Architecture list on the sidebar
+header ul{
+    list-style: none;
+    border: none;
+    background-color: inherit;
+    position: relative;
+    top: 0;
+    right: 0;
+}
+
+header li{
+    border: none;
+    float: left;
+    clear: left;
+    width: 100%;
+    margin-left: 10px;
+}
+
+header ul a{
+    text-align: left;
+    font-size: 1.25em;
+}
+
+header ul li + li + li {
+    width: 100%;
+}
+
+#arch-header{
+    margin-bottom: 5px;
+}
