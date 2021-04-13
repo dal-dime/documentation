@@ -51,6 +51,12 @@ header ul li + li + li {
     width: 100%;
 }
 
+header ul li.inner{
+    position:relative;
+    left: 15px;
+}
+
 #arch-header{
     margin-bottom: 5px;
 }
+

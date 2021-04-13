@@ -73,9 +73,8 @@ A taskflow is illustrated below through the highlighted blue transitions:
 
 Taskflows can interweave in arbitrary ways. One taskflow's side effects may trigger transitions in a related taskflow. Certain taskflows may not proceed further until a related taskflow reaches some state. 
 
-Great care must be take to consider all sorts of possible taskflows that arise from the addition of a transition between two states. For example, we wish to allow users to prevent some of their dataset's variables from being matched by the community. We can do this by adding a 'Closed' state to the CommunityAttributeMatchingGoal task.
+Great care must be take to consider all possible taskflows that arise from the addition of a transition between two states. For example, we wish to allow users to prevent some of their dataset's variables from being matched by the community. We can do this by adding a 'Closed' state to the CommunityAttributeMatchingGoal task.
 
-IMAGE PLACEHOLDER
 
 But in doing so we must answer questions like:
 
@@ -87,3 +86,9 @@ This is a key area for further development.
 Tools for the development and management of taskflows are key to constructing effective user experiences on the platform. 
 
 Additionally, taskflows should be encapsulated away from the task system. Currently, all DIME tasks are hardcoded into the task system's binaries. A more mature version of the platform could have tasks, states, and widgets loaded in through data and script files, allowing *Task Designers* to develop, test and deploy taskflows on the platform independently of the platform's development team. 
+
+## High-level Taskflow Interactions
+The diagram below depicts the initial design of several DIME taskflows. The dotted lines/arrows highlight how tasks affect eachother as they transition between their own states. This diagram is likely out of date by the time you're reading this and thus should be used as a illustrative tool of the task systems functioning rather than documentation. We strive to provide up to date task flows in the documentation for individual tasks.
+
+Click to enlarge!
+[![High-level Taskflow Interactions]({{site.url}}/images/Task-Systems-Design-Draft.png)]({{site.url}}/images/Task-Systems-Design-Draft.png)
