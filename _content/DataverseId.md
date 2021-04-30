@@ -1,0 +1,2 @@
+![dataverse-id]({{site.url}}/images/dataverse-id.gif)
+This is the id of the dataverse you'd like to deposit datasets into. This can be found by logging into through your dataverse portal. Clicking 'My Data', finding the dataverse you'd like to connect to DIME, then clicking on it. The id of that dataverse is the last portion of the url in your address bar (the part that follows '/dataverses/'). 

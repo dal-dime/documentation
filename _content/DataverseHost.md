@@ -1,0 +1,2 @@
+![dataverse-host]({{site.url}}/images/dataverse-host.gif)
+The dataverse host is the url of the dataverse server you'd like to connect to. It can easily be found by going to your dataverse login portal and copying the address in your addressbar excluding 'loginpage.xhtml'. 
