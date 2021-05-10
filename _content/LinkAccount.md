@@ -1,0 +1,1 @@
+This task appears if you've expressed interest in publishing a dataset to a repository but haven't yet provided your repository connection information to DIME. 

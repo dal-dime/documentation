@@ -1,0 +1,1 @@
+The DIME platform can help break down the task of publishing to specific repositories into smaller easy to complete pieces. When you click 'yes' on this task. The metadata fields required to publish on the specified repository will be added to your document. Additionally, you'll start recieving Metadata tasks for these required fields. 

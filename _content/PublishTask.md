@@ -1,0 +1,1 @@
+This task appears when all publishing requirements have been met for the specified dataset and repository. That means all relevant metadata field tasks are compelete and the connection info for the repository is linked to your DIME account. Clicking on the upload button will send your dataset to the specified repository.
