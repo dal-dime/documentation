@@ -3,7 +3,6 @@ title: First Document Task
 layout: post
 author: Alexandru Ianta
 ---
-
 The first document task is the first task a user sees upon registering on the platform. It is meant to welcome the user to the platform and provide some general information. The primary goal of the task is to introduce the user to the task system's features (filtering, accessing help, task skipping, task rejection, and task submission).
 
 As we expect data uploading to happen primarily on desktop, the desktop version of this task prompts the user to upload a file in order to complete the task. 
