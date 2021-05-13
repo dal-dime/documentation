@@ -17,6 +17,7 @@ When a user selects 'yes', the required metadata fields are added to the entity 
 {% include image.html url='/images/DIME_Keyset_Taskflow.png' description='The keyset taskflow. The global rejection state is omited to keep the diagram clear.' %}
 
 ### Technical Specifications
+
 |-|-|
 |Name| Keyset Task |
 |Priority| 100 |
