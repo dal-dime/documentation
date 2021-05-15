@@ -25,7 +25,7 @@ Link account tasks display the appropriate 'connection' UI so users can handle a
 |Desktop| yes |
 |Mobile | no |
 
-# Screenshots
+### Screenshots
 
 {% include image.html url='/images/link-task-desktop.png' description='The Link Account Task as it appears on the DIME web app on desktop. In this task the user is prompted to link their figshare account. The triggering publish task must have been attempting to guide the user through the process of publishing a dataset on figshare.' %}
 
