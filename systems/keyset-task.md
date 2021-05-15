@@ -28,3 +28,5 @@ When a user selects 'yes', the required metadata fields are added to the entity 
 ### Screenshots
 
 {% include image.html url='/images/keyset-task-desktop.png' description='A keyset task as it appears when accessing the DIME web app on Desktop. This keyset task asks the user\'s intent to publish on Figshare.' %}
+
+{% include image.html url='/images/keyset-task-desktop-2.png' description='Another example of the Keyset Task on desktop. Here the user is asked if their intent for a particular dataset is publishing to Dataverse.' %}
