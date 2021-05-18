@@ -47,6 +47,9 @@ header ul a{
     text-align: left;
     font-size: 1.25em;
     height: 25px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
 }
 
 header ul li + li + li {
@@ -56,7 +59,7 @@ header ul li + li + li {
 header ul li.inner{
     position:relative;
     left: 15px;
-    height: 25px;
+    height: 2em;
 }
 
 #arch-header{
